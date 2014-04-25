@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.idserver.server.persistence.ClientIdMapper">
+
+	<select id="getClientIdSelected" resultType="com.idserver.server.domain.ClientId">
+		select
+		id as id,
+		sNum as sNum,
+		status as status
+		from
+		tb_check
+		where
+		sNum=#{sNum} and status=#{status}
+	</select>
+	
+	<select id="getIdCount" resultType="int">
+		select
+		count(sNum)
+		from
+		tb_check
+	</select>
+	
+	<update id="setClientIdEnable">
+		update
+		tb_check
+		set
+		tb_check.status=1,tb_check.deviceNum=#{deviceNum}
+		where
+		sNum=#{sNum}
+	</update>
+	
+	<insert id="addNewClientId">
+		insert into
+		tb_check(sNum,status)
+		values(#{sNum},#{status})
+	</insert>
+	
+</mapper>
