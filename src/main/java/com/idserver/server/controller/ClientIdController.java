@@ -24,7 +24,7 @@ public class ClientIdController {
 	@ResponseBody
 	boolean checkSNUM(@RequestParam(value = "sNum") String sNum,@RequestParam(value = "deviceNum") String deviceNum)
 	{
-		if(sNum.endsWith("00000000"))
+		if(sNum.endsWith("99999999"))
 		{
 			return true;
 		}

@@ -47,8 +47,8 @@ top:80%;
 	</ul>
 <br>	
 	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppNote2V2.apk">Note 2(光感)</a></li>
-	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/MSensorAppV2.apk">Note2(磁感)</a></li>
-	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV2.apk">Note2(English)</a></li>
+	<!-- <li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/MSensorAppV2.apk">Note2(磁感)</a></li> -->
+	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV2English.apk">Note2(English)</a></li>
 	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">--------------------------</li>
 	
 	
@@ -58,14 +58,17 @@ top:80%;
 	
 	
 	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV2.apk">S5(光感)</a></li>
-	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppMV2.apk">S5(磁感)</a></li>
-	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV2.apk">S5(English)</a></li>
+	<!-- <li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppMV2.apk">S5(磁感)</a></li> -->
+	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV2English.apk">S5(English)</a></li>
+	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">--------------------------</li>
+	
+	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV2.apk">三星3518</a></li>
 	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">--------------------------</li>
 	
 	
 	
 	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV2.apk">小米3(光感)</a></li>
-	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/MSensorAppV2.apk">小米3(磁感)</a></li>
+	<!-- <li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/MSensorAppV2.apk">小米3(磁感)</a></li> -->
 	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">--------------------------</li>
 	
 	
@@ -78,8 +81,8 @@ top:80%;
 	
 	
 	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV2.apk">note3mini/N750(光感)</a></li>
-	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/MSensorAppV2.apk">note3mini/N750(磁感)</a></li>
-	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV2.apk">note3mini/N750(English)</a></li>
+	<!-- <li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/MSensorAppV2.apk">note3mini/N750(磁感)</a></li> -->
+	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV2English.apk">note3mini/N750(English)</a></li>
 	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">--------------------------</li>
 	
 	
