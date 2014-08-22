@@ -64,4 +64,18 @@ public class HomeController {
 		return "App2";
 	}
 	
+	@RequestMapping(value = "/App3", method = RequestMethod.GET)
+	public String Apphelp3(Locale locale, Model model) {
+		logger.info("Welcome Apphelp! The client locale is {}.", locale);
+		/*
+		Date date = new Date();
+		DateFormat dateFormat = DateFormat.getDateTimeInstance(DateFormat.LONG, DateFormat.LONG, locale);
+		
+		String formattedDate = dateFormat.format(date);
+		
+		model.addAttribute("serverTime", formattedDate );
+		*/
+		return "App3";
+	}
+	
 }
