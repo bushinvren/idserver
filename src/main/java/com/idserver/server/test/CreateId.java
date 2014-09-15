@@ -39,7 +39,7 @@ public class CreateId {
 			Random random_num = new Random();
 			
 			try {
-				fw = new FileWriter("/Users/bushinvren/Desktop/checkID/ID/add0.txt");
+				fw = new FileWriter("/Users/bushinvren/Desktop/ID/add0.txt");
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -82,7 +82,7 @@ public class CreateId {
 				{
 					try {
 						fw.close();
-						fw = new FileWriter("/Users/bushinvren/Desktop/checkID/ID/add"+(i+1)/100000+".txt");
+						fw = new FileWriter("/Users/bushinvren/Desktop/ID/add"+(i+1)/100000+".txt");
 					} catch (IOException e) {
 						// TODO Auto-generated catch block
 						e.printStackTrace();
