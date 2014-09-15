@@ -51,11 +51,19 @@ top:80%;
 	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">--------------------------</li>
 	
 	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV3.apk">S5(光感)</a></li>
+<<<<<<< HEAD
 	<!-- <li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppMV3.apk">S5(磁感)</a></li> -->
 	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">--------------------------</li>
 	
 	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV3.apk">Note3(光感)</a></li>
 	<!-- <li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppMV3.apk">Note3(磁感)</a></li> -->
+=======
+	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppMV3.apk">S5(磁感)</a></li>
+	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">--------------------------</li>
+	
+	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV3.apk">Note3(光感)</a></li>
+	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppMV3.apk">Note3(磁感)</a></li>
+>>>>>>> FETCH_HEAD
 	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">--------------------------</li>
 	
 	</div>

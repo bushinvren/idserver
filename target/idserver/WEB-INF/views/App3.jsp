@@ -46,12 +46,17 @@ top:80%;
 	<li style="text-align:center;font-size:1.2em">Please select model to download:</li>
 	</ul>
 <br>	
-	<!-- S5 -->
-	<li style="text-align:center;font-size:1.0em" nowrap="nowrap"><img width="20%" src="http://115.28.42.231:8080/idserver/resources/img/S5.jpg" align="absmiddle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV2.apk">S5</a>&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/MSensorAppV2.apk">S5(磁感应版)</a></li>
-	<li style="text-align:center;font-size:1.0em" nowrap="nowrap">-------------------------</li>
-	<!-- Note3 -->
-	<li style="text-align:center;font-size:1.0em" nowrap="nowrap"><img width="20%" src="http://115.28.42.231:8080/idserver/resources/img/S5.jpg" align="absmiddle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV2.apk">Note3</a>&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/MSensorAppV2.apk">Note3(磁感应版)</a></li>
-	<li style="text-align:center;font-size:1.0em" nowrap="nowrap">-------------------------</li>
+	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV3.apk">Note 2(光感)</a></li>
+	<!-- <li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppMV3.apk">Note2(磁感)</a></li> -->
+	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">--------------------------</li>
+	
+	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV3.apk">S5(光感)</a></li>
+	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppMV3.apk">S5(磁感)</a></li>
+	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">--------------------------</li>
+	
+	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppV3.apk">Note3(光感)</a></li>
+	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my-app.oss-cn-hangzhou.aliyuncs.com/SensorAppMV3.apk">Note3(磁感)</a></li>
+	<li style="text-align:center;font-size:1.5em" nowrap="nowrap">--------------------------</li>
 	
 	</div>
 
